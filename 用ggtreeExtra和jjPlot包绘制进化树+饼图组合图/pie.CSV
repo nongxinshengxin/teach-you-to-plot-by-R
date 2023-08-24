@@ -1,0 +1,13 @@
+name,R,G,other,P,NA,gene,seq
+Dothideomycetes,0.9,0.06,0.03,0,0,gene1,1
+Eurotiomycetes,0.85,0.08,0.02,0.05,0,gene1,2
+Leotiomycetes,0.7,0.1,0.05,0.1,0.05,gene1,3
+Sordariomycetes,0.75,0.2,0,0,0.05,gene1,4
+Xylonomycetes,1,0,0,0,0,gene1,5
+Orbiliomycetes,0.9,0,0.1,0,0,gene1,6
+Pezizomycetes,1,0,0,0,0,gene1,7
+Saccharomycotina,0.2,0,0,0.3,0.5,gene1,8
+Taphrinomycotina,0.1,0,0.1,0.8,0,gene1,9
+Agaricomycotina,0.65,0.2,0.1,0,0.05,gene1,10
+Pucciniomycotina,0,0,0.6,0.4,0,gene1,11
+Ustilaginomycotina,0.1,0.1,0.7,0.05,0.05,gene1,12
