@@ -2,9 +2,6 @@
 ## 写在前面
 最近需要绘制几副热图，就进一步了解了一下顾祖光老师的ComplexHeatmap包，越是学习越挖掘到这个包的强大，还意外发现顾老师在ComplexHeatmap包的基础上，开发了InteractiveComplexHeatmap包，该包是将ComplexHeatmap包生成的静态热图转换为交互式shiny APP。我发现该包很适合绘制一个复杂热图中的局部放大热图。例如，你有一个数据量非常大的矩阵，绘制热图后，你想要聚焦其中几行几列获得一个子热图，此时使用InteractiveComplexHeatmap包会帮你轻松实现这个需求。今天，我们将使用推文中的数据，利用InteractiveComplexHeatmap包来绘制一个复杂热图中的局部放大热图。
 
-<a name="HkLgG"></a>
-## 源码获取
-获取
 
 <a name="bGcOu"></a>
 ## 安装并加载R包
@@ -66,11 +63,5 @@ htShiny(ht, width1 = 400,height1 = 450)
 ```
 运行上面一行代码后，会弹出一个shiny APP窗口，可以直接单击一个位置或从热图中选择一个区域。通过从框的右下方拖动，可以调整原始热图和所选子热图的大小。最后，可以将热图和子热图保存为你想要的格式输出，这里我们保存为PDF格式。
 
-用AI将两幅图拼接一下，成品如下：
 
 
-<a name="mltRn"></a>
-## 完整代码
-<a name="DW3aF"></a>
-## 写在最后
-人啊
