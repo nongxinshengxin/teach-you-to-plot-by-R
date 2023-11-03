@@ -1,0 +1,7 @@
+Felis_catus	+156/-579
+Bos_taurus	+415/-308
+Ovis_aries	+235/-319
+Sus_scrofa_domesticus	+119/-69
+Homo_sapiens	+654/-617
+Gallus_gallus	+332/-472
+
